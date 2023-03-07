@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Proiecte Vivado/proiect_SCID/proiect_SCID.srcs/sources_1/new/carTailLights.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'carTailLights'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Proiecte Vivado/proiect_SCID/proiect_SCID.srcs/sim_1/new/simCarTailLights.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'simCarTailLights'

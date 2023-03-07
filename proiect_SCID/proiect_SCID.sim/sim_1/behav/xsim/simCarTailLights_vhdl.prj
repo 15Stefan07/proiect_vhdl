@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proiect_SCID.srcs/sources_1/new/carTailLights.vhd" \
+"../../../../proiect_SCID.srcs/sim_1/new/simCarTailLights.vhd" \
+
+# Do not sort compile order
+nosort
